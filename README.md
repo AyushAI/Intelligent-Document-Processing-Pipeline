@@ -89,7 +89,7 @@ intelligent-doc-pipeline/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/intelligent-doc-pipeline.git
+git clone https://github.com/AyushAI/Intelligent-Document-Processing-Pipeline.git
 cd intelligent-doc-pipeline
 ```
 
