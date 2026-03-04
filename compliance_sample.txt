@@ -1,0 +1,22 @@
+ANNUAL COMPLIANCE REPORT – 2025
+
+Company: Orion Retail Pvt Ltd
+Reporting Period: January 2025 – December 2025
+
+1. Data Protection Compliance
+The company implemented GDPR-aligned policies; however, audit findings revealed incomplete encryption practices in legacy systems.
+
+2. Financial Reporting
+Quarterly reports were submitted; however, delays of up to 15 days were observed in Q2 and Q3.
+
+3. Vendor Screening
+Vendor due diligence was conducted for 75% of active vendors. The remaining 25% lack updated compliance documentation.
+
+4. Cybersecurity
+Two phishing incidents occurred in March 2025. Incident response procedures were followed but not formally documented.
+
+5. Regulatory Filings
+One late filing was identified with the state regulatory authority.
+
+Conclusion:
+While the company demonstrates general compliance efforts, several operational and regulatory risks remain.
